@@ -1,0 +1,14 @@
+Obiedent Cat write up:
+for this one you have to download the file and then go to the directory that has the file and cat the file you will find the flag right there
+
+Python Wrangling:
+for this one a bit trickey as you need to read the code, so first download the code and then try to run the python file but it won't run unless you have -d command 
+after. Eg python3 ende.py -d "name.txt". Next you need to key or the password and then done the key will be decoded and you will have your flag.
+
+Wave a flag:
+you need to download the file and then change its mode using the chmod +x to an executable. you might need to use sudo. Once you have done this you have to run the
+file using ./warm but you will have a command saying that you need to run it with -h and so ./warm -h and then you will have the flag.
+
+Nice NetCat:
+after you use the nc command to connect to the website you will have a whole bunch of decimal numbers that will pop up me being lazy I just used an online tool to turn
+decimals into characters and that is how I found the flag.
